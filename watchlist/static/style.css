@@ -54,7 +54,7 @@ nav ul {
     overflow: hidden;
     background-color: #333;
 }
-#导航栏
+
 nav li {
     float: left;
 }
@@ -70,11 +70,10 @@ nav li a {
 nav li a:hover {
     background-color: #111;
 }
-
-#imdb链接
 .float-right {
     float: right;
 }
+
 .imdb {
     font-size: 12px;
     font-weight: bold;
@@ -84,7 +83,6 @@ nav li a:hover {
     border-radius: 5px;
     padding: 3px 5px;
 }
-
 /* 覆盖某些浏览器对 input 元素定义的字体 */
 input[type=submit] {
     font-family: inherit;
@@ -115,7 +113,6 @@ input[name=year] {
     color: white;
     border: 1px solid black;
 }
-
 .alert {
     position: relative;
     padding: 7px;
@@ -126,7 +123,6 @@ input[name=year] {
     border-color: #b8daff;
     border-radius: 5px;
 }
-
 .inline-form {
     display: inline;
 }
